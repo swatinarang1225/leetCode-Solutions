@@ -1,5 +1,14 @@
 # LeetCode Solved Problems in Python
+
+Hi Everyone!!!
+
+This repository contains LeetCode Solved Problem in python. Below you can find the link to problem and its Solution. Hope it helps :)
+
+Thanks
+
 ![Leetcode+Python](https://user-images.githubusercontent.com/28431152/192743038-9eac81e8-4cac-44dd-bcf6-04ed1eef4701.png)
+
+
 
 | Sr. No | Problem Name                          | Difficulty Level | Problem Link                                                                    | Problem Solution                                                                                                                |
 | ------ | ------------------------------------- | ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
