@@ -14,6 +14,7 @@ Thanks
 | ------ | ------------------------------------- | ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | Two Sum      | Easy          | [Array](https://leetcode.com/problems/two-sum/)  | [Python](https://github.com/swatinarang1225/LeetCode-Solutions/blob/main/1.%20Two%20Sum.py) |
 | 9     | Palindrome Number      | Easy          | [Array and String](https://leetcode.com/problems/palindrome-number/)  | [Python](https://github.com/swatinarang1225/LeetCode-Solutions/blob/main/9.%20Palindrome%20Number.py) |
+| 12     | Integer to Roman      | Medium          | [String and Math](https://leetcode.com/problems/integer-to-roman/)  | [Python](https://github.com/swatinarang1225/LeetCode-Solutions/blob/main/12.%20Integer%20to%20Roman.py) |
 | 13     | Roman to Integer      | Easy          | [String](https://leetcode.com/problems/roman-to-integer/)  | [Python](https://github.com/swatinarang1225/LeetCode-Solutions/blob/main/13.%20Roman%20to%20Integer.py) |
 | 14    | Longest Common Prefix    | Easy          | [String](https://leetcode.com/problems/longest-common-prefix/)  | [Python](https://github.com/swatinarang1225/LeetCode-Solutions/blob/main/14.Longest%20Common%20Prefix.py) |
 | 16    | 3Sum Closest    | Medium          | [Array and Sorting](https://leetcode.com/problems/3sum-closest/)  | [Python](https://github.com/swatinarang1225/LeetCode-Solutions/blob/main/16.%203Sum%20Closest.py) |
