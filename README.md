@@ -1,4 +1,4 @@
-# LeetCode Solved Problems in Python
+# LeetCode Solved Problems in Python and C++
 
 Hi Everyone!!!
 
